@@ -1,0 +1,11 @@
+/node_modules/
+/lib/
+/test/
+custom-elements.json
+# top level source
+eco-index.js
+eco-index.js.map
+eco-index.d.ts
+eco-index.d.ts.map
+# only generated for size check
+eco-index.bundled.js
